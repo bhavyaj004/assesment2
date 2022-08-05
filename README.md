@@ -6,12 +6,12 @@ Get information about health details.
 
 Responses 
 {
-Gender
-HeightCm
-WeightKg
-bmi
-bmiCategory
-healthRisk
+Gender,
+HeightCm,
+WeightKg,
+bmi,
+bmiCategory,
+healthRisk,
 }
 
 GET /overweight
